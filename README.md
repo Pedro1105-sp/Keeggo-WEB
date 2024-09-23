@@ -9,5 +9,10 @@ Teste WEB
 -![image](https://github.com/user-attachments/assets/01ecadbc-c2ee-4304-bbf0-f29b316ee92f)
 
 - Agora escolha qual feature executar primeiro
+![image](https://github.com/user-attachments/assets/a443b958-5f4b-447d-a48b-8468185ecba3)
+
+- Então o teste é executado
+- ![image](https://github.com/user-attachments/assets/3086ac9a-62cf-4fc6-9204-176b77019cbe)
+
 
 
