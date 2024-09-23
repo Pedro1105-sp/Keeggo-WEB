@@ -1,0 +1,63 @@
+[
+  {
+    "description": "    Como usuário do site, eu quero realizar uma busca dos produtos na página principal\n    Para que eu possa escolher e saber mais sobre os produtos disponíveis",
+    "keyword": "Feature",
+    "name": "Buscar",
+    "line": 1,
+    "id": "buscar",
+    "tags": [],
+    "uri": "buscar.feature",
+    "elements": [
+      {
+        "id": "buscar;ct001---realizar-busca-do-produto-laptop",
+        "keyword": "Scenario",
+        "line": 6,
+        "name": "CT001 - REALIZAR BUSCA DO PRODUTO LAPTOP",
+        "tags": [],
+        "type": "scenario",
+        "steps": [
+          {
+            "arguments": [],
+            "keyword": "Given ",
+            "line": 8,
+            "name": "que estou na página principal do site Advantage Online Shopping",
+            "result": {
+              "status": "passed",
+              "duration": 5769000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "When ",
+            "line": 9,
+            "name": "pesquiso Laptop na lupa",
+            "result": {
+              "status": "passed",
+              "duration": 43000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "And ",
+            "line": 10,
+            "name": "pressiono a tecla enter",
+            "result": {
+              "status": "passed",
+              "duration": 4652000000
+            }
+          },
+          {
+            "arguments": [],
+            "keyword": "Then ",
+            "line": 11,
+            "name": "sou redicerionado a página de Search Result : Laptop",
+            "result": {
+              "status": "passed",
+              "duration": 3081000000
+            }
+          }
+        ]
+      }
+    ]
+  }
+]
